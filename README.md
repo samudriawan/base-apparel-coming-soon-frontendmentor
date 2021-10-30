@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL]() |
-[Live Site URL]() |
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-mobilefirst-with-sass-using-flexbox-and-grid-gaIu7pVCD) |
+[Live Site URL](https://samudriawan.github.io/base-apparel-coming-soon-frontendmentor/) |
 [Challenge](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
 
 ## My process
